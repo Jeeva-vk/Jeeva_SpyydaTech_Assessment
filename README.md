@@ -42,7 +42,7 @@ The program converts the sentence to lowercase, splits it into words, removes pu
 HashMap to count how many times each word occurs. Sorting is done by frequency, giving a clean output
 of word → count.
 
-## 2. Balanced Brackets Validator
+## 2. Bracket Validator
 It is a stack-based approach. Opening brackets are pushed, and closing brackets are matched with
 the top of the stack. Any mismatch means invalid. Empty stack at the end means balanced.
 
@@ -51,7 +51,7 @@ Books are stored in an ArrayList as objects containing id, title, author and qua
 supports add, search, borrow and return functions. Each operation modifies the in-memory list. A
 console menu allows testing all features.
 
-## 4. Longest Increasing Subsequence (LIS)
+## 4. Longest Increasing Subsequence 
 The classic O(n log n) binary-search based LIS algorithm is implemented. A helper list keeps track of
 potential sequence endings. The length of this list gives the LIS length.
 
