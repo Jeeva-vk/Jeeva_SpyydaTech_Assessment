@@ -27,6 +27,7 @@ SpyydaTech_Assessment/
 2. Open folder in VS Code or run from terminal
 3. Compile:  javac FileName.java
 4. Run    : java FileName.java
+5. Run only FileName.java file not .class file
 
 
 
