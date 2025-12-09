@@ -4,6 +4,8 @@ Author: <Jeeva>
 This repository contains solutions for all six use cases given in the Spyyda Tech Coding Round.  
 The solutions are implemented in Java using simple and efficient code. Each program
 is placed in a separate file and can run independently.
+I have done all the questions in visual code editor so it created extra files during compilation.
+The main logic code are presented in Filename.java not in .class files
 
 ---
 
